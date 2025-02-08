@@ -4,3 +4,4 @@ Open source code to see code for kinematic and dynamic of robot, run "parameter"
 "dongluchoc.m" caltulaion dynamic of robot, contain matrix c, d, m, g.  
 
 ![image](https://github.com/user-attachments/assets/9b91302c-a6f0-4598-9ae7-fd03e569c220)
+![image](https://github.com/user-attachments/assets/9fdc077f-4506-48cb-b3f4-d6785fe7d399)
