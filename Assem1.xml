@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="03/12/24||21:44:10" using="Simscape Multibody Link Version 6.1" from="SolidWorks 29.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem1" uid="Assem1" version="412">
+<AssemblyFile name="Assem1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="small_tri_top-4" uid="small_tri_top-4" entityUid="small_tri_top*:*Default">
+<Transform>
+<Rotation>-0.93734675562878866 -0.29405779977293001 -0.18684504303001231 -0.34271800460712531 0.87469351125762762 0.34271800460715912 0.062653244371653899 0.38528077003207123 -0.92067002732423076</Rotation>
+<Translation>-0.087532646948024914 0.10115528006791215 -0.16585131658112889</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri-4" uid="small_tri-4" entityUid="small_tri*:*Default">
+<Transform>
+<Rotation>0.062653244371414105 0.38528077003276334 -0.92067002732395753 0.34271800460773827 -0.87469351125714978 -0.34271800460776597 -0.93734675562858061 -0.29405779977344487 -0.18684504303024599</Rotation>
+<Translation>-0.17931768744536225 0.064804546303987076 -0.074066276083806837</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_bot-6" uid="trapezoid_bot-6" entityUid="trapezoid_bot*:*Default">
+<Transform>
+<Rotation>0.70710678118654002 0.34271800460749363 -0.61850171326995407 -3.0531133177191805e-16 0.87469351125735528 0.48467645018535688 0.70710678118655501 -0.34271800460748592 0.61850171326994119</Rotation>
+<Translation>-0.17356705687343119 0.086349889328085752 0.11187537297424155</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_top_mir-4" uid="small_tri_top_mir-4" entityUid="small_tri_top_mir*:*Default">
+<Transform>
+<Rotation>0.062653244371283529 -0.38528077003234873 -0.92067002732413994 -0.34271800460739543 -0.87469351125739614 0.34271800460747937 -0.93734675562871461 0.29405779977325447 -0.18684504302987312</Rotation>
+<Translation>-0.17739128359518264 0.10552874762424107 -0.075536565082643572</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_top-4" uid="trapezoid_top-4" entityUid="trapezoid_top*:*Default">
+<Transform>
+<Rotation>0.70710678118654324 0.34271800460737306 -0.61850171327001724 2.4293744671169243e-15 -0.87469351125744954 -0.48467645018518668 -0.70710678118655179 0.34271800460736579 -0.61850171327001136</Rotation>
+<Translation>-0.17356705687344198 0.079609937043950363 -0.1601006860092079</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_top-6" uid="small_tri_top-6" entityUid="small_tri_top*:*Default">
+<Transform>
+<Rotation>0.062653244371100175 0.38528077003222422 -0.92067002732420478 -0.34271800460687196 0.87469351125758565 0.34271800460752011 0.93734675562891845 0.2940577997728549 0.18684504302948018</Rotation>
+<Translation>-0.17931768744535023 0.10115528006796871 0.025840963048720595</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_top_mir-6" uid="small_tri_top_mir-6" entityUid="small_tri_top_mir*:*Default">
+<Transform>
+<Rotation>-0.93734675562892988 0.29405779977284141 -0.18684504302944299 -0.34271800460685187 -0.87469351125755268 0.34271800460762386 -0.062653244371035921 0.38528077003230909 0.92067002732417336</Rotation>
+<Translation>-0.08900293594677966 0.10552874762429752 0.11569959969600832</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_mir-6" uid="small_tri_mir-6" entityUid="small_tri_mir*:*Default">
+<Transform>
+<Rotation>0.062653244371308259 -0.38528077003169342 -0.92067002732441261 0.34271800460749041 0.87469351125761363 -0.34271800460683038 0.93734675562867842 -0.29405779977346741 0.18684504302972027</Rotation>
+<Translation>-0.17739128359515499 0.060431078747880514 0.027311252047636233</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri-6" uid="small_tri-6" entityUid="small_tri*:*Default">
+<Transform>
+<Rotation>-0.93734675562867731 -0.29405779977348634 -0.18684504302969629 0.3427180046074903 -0.87469351125766215 -0.34271800460670665 -0.062653244371326577 -0.3852807700315688 0.92067002732446346</Rotation>
+<Translation>-0.087532646947966822 0.064804546304148933 0.11762600354613516</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_top-6" uid="trapezoid_top-6" entityUid="trapezoid_top*:*Default">
+<Transform>
+<Rotation>-0.70710678118657455 0.34271800460683655 -0.61850171327027892 1.4530043834781736e-14 -0.87469351125785011 -0.48467645018446431 -0.70710678118652059 -0.34271800460688079 0.61850171327031611</Rotation>
+<Translation>-0.17356705687338558 0.079609937044122905 0.11187537297420684</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_top_mir-2" uid="small_tri_top_mir-2" entityUid="small_tri_top_mir*:*Default">
+<Transform>
+<Rotation>0.93734675562848824 -0.29405779977376117 0.18684504303021152 -0.34271800460798291 -0.87469351125726746 0.34271800460722068 0.062653244371457903 -0.38528077003225442 -0.92067002732416747</Rotation>
+<Translation>0.013844881183533891 0.10552874762421074 -0.1639249127309636</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri-1" uid="small_tri-1" entityUid="small_tri*:*Default">
+<Transform>
+<Rotation>-0.062653244371251929 -0.38528077003177197 0.92067002732438341 0.3427180046073211 -0.87469351125763062 -0.34271800460695556 0.93734675562874414 0.29405779977331337 0.18684504302963373</Rotation>
+<Translation>0.10415963268189554 0.064804546304107674 0.025840963048787111</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_top-1" uid="trapezoid_top-1" entityUid="trapezoid_top*:*Default">
+<Transform>
+<Rotation>-0.70710678118654358 -0.34271800460746382 0.6185017132699665 -2.7038551739291858e-15 -0.87469351125737582 -0.48467645018532002 0.70710678118655146 -0.34271800460746349 0.61850171326995784</Rotation>
+<Translation>0.098409002110017491 0.079609937043934278 0.11187537297424882</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_bot-2" uid="trapezoid_bot-2" entityUid="trapezoid_bot*:*Default">
+<Transform>
+<Rotation>-0.70710678118654613 -0.34271800460724833 0.61850171327008296 0 0.87469351125754502 0.48467645018501443 -0.70710678118654879 0.34271800460724694 -0.61850171327008063</Rotation>
+<Translation>0.098409002110027913 0.08634988932801263 -0.16010068600922384</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri-2" uid="small_tri-2" entityUid="small_tri*:*Default">
+<Transform>
+<Rotation>0.93734675562877279 0.2940577997730357 0.18684504302992558 0.34271800460724711 -0.87469351125725159 -0.34271800460799706 0.062653244371225159 0.38528077003284422 -0.92067002732393644</Rotation>
+<Translation>0.012374592184615018 0.064804546303948593 -0.16585131658115684</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_bot-1" uid="trapezoid_bot-1" entityUid="trapezoid_bot*:*Default">
+<Transform>
+<Rotation>0.70710678118654757 -0.34271800460732077 0.618501713270041 -1.2490009027033011e-16 0.87469351125748762 0.48467645018511807 -0.70710678118654724 -0.3427180046073211 0.61850171327004133</Rotation>
+<Translation>0.098409002110020252 0.086349889328041066 0.11187537297425192</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_top-2" uid="small_tri_top-2" entityUid="small_tri_top*:*Default">
+<Transform>
+<Rotation>-0.062653244371547359 -0.38528077003213163 0.92067002732421277 -0.3427180046079612 0.87469351125733052 0.34271800460708179 -0.93734675562849012 -0.2940577997737347 -0.18684504303024319</Rotation>
+<Translation>0.10415963268193025 0.10115528006788287 -0.074066276083852661</Translation>
+</Transform>
+</Instance>
+<Instance name="top-1" uid="top-1" entityUid="top*:*Default">
+<Transform>
+<Rotation>-0.7071067811865448 3.6375200307643589e-15 0.70710678118655035 -2.7187823407093453e-15 -1 2.204047263092549e-15 0.70710678118655057 -3.2801852079819513e-16 0.70710678118654458</Rotation>
+<Translation>-0.037579027381712059 0.12933064694989435 -0.024112656517479261</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_top-2" uid="trapezoid_top-2" entityUid="trapezoid_top*:*Default">
+<Transform>
+<Rotation>0.70710678118657866 -0.34271800460796281 0.61850171326964998 -1.4474532683550475e-14 -0.87469351125697992 -0.48467645018603456 0.70710678118651638 0.34271800460797508 -0.61850171326971448</Rotation>
+<Translation>0.098409002110060664 0.079609937043780304 -0.16010068600926178</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_mir-4" uid="small_tri_mir-4" entityUid="small_tri_mir*:*Default">
+<Transform>
+<Rotation>-0.93734675562857983 0.29405779977346175 -0.1868450430302232 0.34271800460774032 0.87469351125717709 -0.34271800460769453 0.062653244371414549 -0.38528077003268835 -0.92067002732398895</Rotation>
+<Translation>-0.089002935946898079 0.060431078747728122 -0.16392491273095761</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_mir-1" uid="small_tri_mir-1" entityUid="small_tri_mir*:*Default">
+<Transform>
+<Rotation>0.93734675562874359 -0.29405779977326074 0.18684504302971858 0.34271800460732238 0.87469351125753225 -0.34271800460720586 -0.062653244371252054 0.38528077003203565 0.92067002732427317</Rotation>
+<Translation>0.013844881183430819 0.060431078747797344 0.11569959969597922</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_top_mir-1" uid="small_tri_top_mir-1" entityUid="small_tri_top_mir*:*Default">
+<Transform>
+<Rotation>-0.062653244371345507 0.38528077003152994 0.92067002732447856 -0.34271800460650603 -0.87469351125798755 0.34271800460686003 0.93734675562903591 -0.29405779977256913 0.18684504302934074</Rotation>
+<Translation>0.10223322883184872 0.10552874762418255 0.027311252047554593</Translation>
+</Transform>
+</Instance>
+<Instance name="trapezoid_bot-4" uid="trapezoid_bot-4" entityUid="trapezoid_bot*:*Default">
+<Transform>
+<Rotation>-0.70710678118654735 0.34271800460773816 -0.6185017132698104 0 0.87469351125716077 0.48467645018570843 0.70710678118654768 0.34271800460773821 -0.61850171326981018</Rotation>
+<Translation>-0.17356705687341159 0.086349889328178553 -0.16010068600917751</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_top-1" uid="small_tri_top-1" entityUid="small_tri_top*:*Default">
+<Transform>
+<Rotation>0.93734675562861236 0.29405779977359553 0.1868450430298495 -0.34271800460772872 0.87469351125712658 0.34271800460783486 -0.062653244370991026 -0.38528077003270111 0.92067002732401237</Rotation>
+<Translation>0.012374592184591523 0.1011552800680104 0.11762600354610031</Translation>
+</Transform>
+</Instance>
+<Instance name="small_tri_mir-2" uid="small_tri_mir-2" entityUid="small_tri_mir*:*Default">
+<Transform>
+<Rotation>-0.062653244371220662 0.38528077003297073 0.92067002732388392 0.3427180046072501 0.87469351125720296 -0.34271800460811802 -0.93734675562877212 0.29405779977301444 -0.18684504302996313</Rotation>
+<Translation>0.10223322883178913 0.060431078747680791 -0.075536565082669316</Translation>
+</Transform>
+</Instance>
+<Instance name="bot-1" uid="bot-1" grounded="true" entityUid="bot*:*Default">
+<Transform>
+<Rotation>0.70710678118654635 2.9328716971512689e-16 0.70710678118654857 -1.3877787807814454e-16 1 -2.759928150030073e-16 -0.70710678118654857 0 0.70710678118654635</Rotation>
+<Translation>-0.037579027381715188 0.036629179422109567 -0.024112656517481179</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-1</Uid>
+</InstancePath>
+<Position>-0.005000000000000001 0 0</Position>
+<Axis>1.0000000000000002 0 -3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-1</Uid>
+</InstancePath>
+<Position>-0.069571067811865464 0.0050000000000000044 -0.069571067811864784</Position>
+<Axis>0.7071067811865509 0 0.70710678118654402</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-1</Uid>
+</InstancePath>
+<Position>-0.066035533905932697 0 -0.066035533905932073</Position>
+<Axis>0.7071067811865509 0 0.70710678118654413</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-1</Uid>
+</InstancePath>
+<Position>-0.005000000000000001 0 0</Position>
+<Axis>-1.0000000000000002 0 3.0531133177191805e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-1</Uid>
+</InstancePath>
+<Position>0.069571067811865561 0.0049999999999999975 -0.069571067811864742</Position>
+<Axis>-0.70710678118655146 0 0.70710678118654369</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-1</Uid>
+</InstancePath>
+<Position>-0.0049999999999999975 0.0049999999999999906 0</Position>
+<Axis>0.99999999999999978 0 -3.6082248300317588e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-1</Uid>
+</InstancePath>
+<Position>0.066035533905932781 0 -0.066035533905932059</Position>
+<Axis>-0.70710678118655124 0 0.70710678118654369</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-1</Uid>
+</InstancePath>
+<Position>-0.0049999999999999975 0 0</Position>
+<Axis>-0.99999999999999978 0 3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-1</Uid>
+</InstancePath>
+<Position>0.050000000000000058 0.010000000000000009 -0.099999999999998854</Position>
+<Axis>-0.99999999999999978 0 -2.7755575615628914e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>0.049999999999999989 0.010000000000000002 0.10000000000000012</Position>
+<Axis>1 0 1.3877787807814457e-15</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>0.050000000000000121 0 0</Position>
+<Axis>-1 0 -1.27675647831893e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-1</Uid>
+</InstancePath>
+<Position>0.050000000000000003 0 0</Position>
+<Axis>0.99999999999999978 0 2.7755575615628914e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-1</Uid>
+</InstancePath>
+<Position>0.030052038200428406 0 -0.022980970388562741</Position>
+<Axis>0.70710678118654724 0 0.70710678118654779</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-1</Uid>
+</InstancePath>
+<Position>0.026516504294495546 0.0050000000000000044 -0.026516504294495521</Position>
+<Axis>0.70710678118654735 1.9428902930940239e-16 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-1</Uid>
+</InstancePath>
+<Position>0.0035355339059328084 0 0.0035355339059328222</Position>
+<Axis>-0.70710678118654713 -2.7755575615628914e-16 -0.70710678118654791</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-1</Uid>
+</InstancePath>
+<Position>0.0035355339059327182 0 0.0035355339059327529</Position>
+<Axis>0.70710678118654735 1.9428902930940239e-16 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-1</Uid>
+</InstancePath>
+<Position>0.030052038200428299 0.0050000000000000044 -0.022980970388562796</Position>
+<Axis>0.70710678118654735 0 0.70710678118654791</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-1</Uid>
+</InstancePath>
+<Position>0.026516504294495494 0 -0.026516504294495549</Position>
+<Axis>0.70710678118654724 0 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-1</Uid>
+</InstancePath>
+<Position>0.0035355339059327355 0 0.003535533905932739</Position>
+<Axis>-0.70710678118654735 0 -0.70710678118654779</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-1</Uid>
+</InstancePath>
+<Position>0.0035355339059326904 0 0.0035355339059326973</Position>
+<Axis>0.70710678118654724 0 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0.99999999999999989 0 -3.8857805861880479e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-1</Uid>
+</InstancePath>
+<Position>-0.058964466094067178 0.0050000000000000044 -0.058964466094066866</Position>
+<Axis>0.70710678118654902 -1.1102230246251565e-16 0.70710678118654613</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-1</Uid>
+</InstancePath>
+<Position>0.004999999999999994 0 0</Position>
+<Axis>0.99999999999999989 0 -3.6082248300317588e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-1</Uid>
+</InstancePath>
+<Position>-0.058964466094067136 0 -0.058964466094066893</Position>
+<Axis>-0.70710678118654913 -3.3306690738754696e-16 -0.70710678118654602</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-1</Uid>
+</InstancePath>
+<Position>0 0.0050000000000000183 0</Position>
+<Axis>1 0 -2.9837243786801082e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-1</Uid>
+</InstancePath>
+<Position>0.058964466094067178 0.0049999999999999767 -0.058964466094066852</Position>
+<Axis>-0.70710678118654913 1.0755285551056204e-16 0.70710678118654624</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident12">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-1</Uid>
+</InstancePath>
+<Position>0.005000000000000001 0 0</Position>
+<Axis>1 0 -2.7061686225238191e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-1</Uid>
+</InstancePath>
+<Position>0.058964466094067136 0 -0.0589644660940669</Position>
+<Axis>0.70710678118654902 -3.6429192995512949e-16 -0.70710678118654613</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>0.039999999999999737 0.010000000000000009 0.10000000000000003</Position>
+<Axis>1.0000000000000002 0 1.3877787807814457e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-1</Uid>
+</InstancePath>
+<Position>0.040000000000000008 0.0099999999999999811 -0.09999999999999909</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident13">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>-0.039999999999999862 0 0</Position>
+<Axis>1.0000000000000002 0 -1.27675647831893e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-1</Uid>
+</InstancePath>
+<Position>-0.040000000000000008 0 0</Position>
+<Axis>-1 1.1102230246251565e-16 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-2</Uid>
+</InstancePath>
+<Position>-0.0049999999999999767 0 0</Position>
+<Axis>1 -1.1102230246251565e-16 -3.6082248300317588e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-2</Uid>
+</InstancePath>
+<Position>-0.069571067811865506 0.005000000000000001 -0.069571067811864784</Position>
+<Axis>0.70710678118655101 0 0.70710678118654413</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident14">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-2</Uid>
+</InstancePath>
+<Position>-0.0049999999999999767 0 0</Position>
+<Axis>-1 1.1102230246251565e-16 3.0531133177191805e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-2</Uid>
+</InstancePath>
+<Position>-0.066035533905932711 0 -0.066035533905932087</Position>
+<Axis>0.70710678118655101 0 0.70710678118654413</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-2</Uid>
+</InstancePath>
+<Position>0.069571067811865547 0.0050000000000000044 -0.069571067811864756</Position>
+<Axis>-0.70710678118655135 0 0.70710678118654369</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-2</Uid>
+</InstancePath>
+<Position>-0.005000000000000001 0.0050000000000000044 0</Position>
+<Axis>1 0 -3.5388358909926865e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-2</Uid>
+</InstancePath>
+<Position>0.066035533905932781 0 -0.066035533905932059</Position>
+<Axis>-0.70710678118655135 0 0.70710678118654358</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-2</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0 0</Position>
+<Axis>-1 0 3.2612801348363973e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric15">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-2</Uid>
+</InstancePath>
+<Position>0.030052038200428392 0 -0.022980970388562713</Position>
+<Axis>0.70710678118654735 0 0.70710678118654768</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-2</Uid>
+</InstancePath>
+<Position>0.026516504294495535 0.0050000000000000044 -0.026516504294495563</Position>
+<Axis>0.70710678118654735 0 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-2</Uid>
+</InstancePath>
+<Position>0.0035355339059328084 0 0.0035355339059328084</Position>
+<Axis>-0.70710678118654724 -3.0531133177191805e-16 -0.70710678118654779</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-2</Uid>
+</InstancePath>
+<Position>0.0035355339059327251 0 0.0035355339059326973</Position>
+<Axis>0.70710678118654735 0 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric16">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-2</Uid>
+</InstancePath>
+<Position>0.030052038200428302 0.0050000000000000044 -0.022980970388562796</Position>
+<Axis>0.70710678118654735 0 0.70710678118654779</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-2</Uid>
+</InstancePath>
+<Position>0.02651650429449548 0 -0.026516504294495549</Position>
+<Axis>0.70710678118654713 0 0.70710678118654757</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident17">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-2</Uid>
+</InstancePath>
+<Position>0.0035355339059327529 0 0.003535533905932739</Position>
+<Axis>-0.70710678118654735 0 -0.70710678118654779</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-2</Uid>
+</InstancePath>
+<Position>0.0035355339059326904 0 0.0035355339059326973</Position>
+<Axis>0.70710678118654713 0 0.70710678118654779</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric17">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-2</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>1 0 -3.4694469519536142e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-2</Uid>
+</InstancePath>
+<Position>-0.058964466094067164 0.0049999999999999767 -0.058964466094066872</Position>
+<Axis>0.70710678118654902 0 0.70710678118654624</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident18">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-2</Uid>
+</InstancePath>
+<Position>0.0049999999999999975 0 0</Position>
+<Axis>1 0 -3.1918911957973251e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-2</Uid>
+</InstancePath>
+<Position>-0.058964466094067136 0 -0.0589644660940669</Position>
+<Axis>-0.70710678118654924 -3.0878077872387166e-16 -0.70710678118654602</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric18">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-2</Uid>
+</InstancePath>
+<Position>0 0.0049999999999999906 0</Position>
+<Axis>1 -1.1102230246251565e-16 -4.7184478546569153e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-2</Uid>
+</InstancePath>
+<Position>0.058964466094067206 0.0049999999999999767 -0.058964466094066866</Position>
+<Axis>-0.70710678118654902 0 0.70710678118654624</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident19">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-2</Uid>
+</InstancePath>
+<Position>0.0049999999999999906 0 0</Position>
+<Axis>1 -1.1102230246251565e-16 -4.4408920985006262e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-2</Uid>
+</InstancePath>
+<Position>0.05896446609406715 0 -0.058964466094066907</Position>
+<Axis>0.70710678118654913 -3.3306690738754696e-16 -0.70710678118654591</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric19">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>0.10000000000000027 0.010000000000000002 -0.049999999999999656</Position>
+<Axis>4.8849813083506888e-15 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-2</Uid>
+</InstancePath>
+<Position>0.050000000000000044 0.009999999999999995 -0.099999999999998868</Position>
+<Axis>-1 0 -3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident20">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>2.4286128663675299e-16 0 -0.050000000000000114</Position>
+<Axis>-4.7184478546569153e-15 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-2</Uid>
+</InstancePath>
+<Position>0.050000000000000003 0 0</Position>
+<Axis>1 0 3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric20">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>-0.10000000000000053 0.010000000000000023 0.039999999999998682</Position>
+<Axis>-1.1934897514720433e-14 1.3612369695165623e-16 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-2</Uid>
+</InstancePath>
+<Position>0.040000000000000015 0.0099999999999999811 -0.09999999999999909</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric27">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-4</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0 0</Position>
+<Axis>1 0 -4.4408920985006262e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-4</Uid>
+</InstancePath>
+<Position>-0.069571067811865506 0.0049999999999999836 -0.069571067811864784</Position>
+<Axis>0.70710678118655079 0 0.70710678118654446</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident29">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-4</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0 0</Position>
+<Axis>-1 0 4.163336342344337e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-4</Uid>
+</InstancePath>
+<Position>-0.066035533905932725 0 -0.066035533905932142</Position>
+<Axis>0.70710678118655057 1.1796119636642288e-16 0.70710678118654458</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric28">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-4</Uid>
+</InstancePath>
+<Position>0.069571067811865575 0.0050000000000000044 -0.069571067811864729</Position>
+<Axis>-0.70710678118655157 0 0.70710678118654369</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-4</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.0049999999999999906 0</Position>
+<Axis>1 0 -3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident30">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-4</Uid>
+</InstancePath>
+<Position>0.066035533905932794 0 -0.066035533905932031</Position>
+<Axis>-0.70710678118655135 -1.1102230246251565e-16 0.70710678118654346</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-4</Uid>
+</InstancePath>
+<Position>-0.0049999999999999906 0 0</Position>
+<Axis>-1 0 3.0531133177191805e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric29">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-4</Uid>
+</InstancePath>
+<Position>0.030052038200428413 0 -0.022980970388562783</Position>
+<Axis>0.70710678118654735 0 0.70710678118654779</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-4</Uid>
+</InstancePath>
+<Position>0.026516504294495528 0.0049999999999999906 -0.026516504294495535</Position>
+<Axis>0.70710678118654724 0 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident31">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-4</Uid>
+</InstancePath>
+<Position>0.0035355339059328222 0 0.0035355339059327806</Position>
+<Axis>-0.70710678118654713 -2.7755575615628914e-16 -0.70710678118654779</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-4</Uid>
+</InstancePath>
+<Position>0.0035355339059327182 0 0.0035355339059327251</Position>
+<Axis>0.70710678118654724 0 0.70710678118654791</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric30">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-4</Uid>
+</InstancePath>
+<Position>0.030052038200428274 0.0050000000000000183 -0.022980970388562838</Position>
+<Axis>0.70710678118654713 -1.6653345369377348e-16 0.70710678118654802</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-4</Uid>
+</InstancePath>
+<Position>0.026516504294495466 0 -0.026516504294495535</Position>
+<Axis>0.70710678118654724 0 0.70710678118654768</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident32">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-4</Uid>
+</InstancePath>
+<Position>0.003535533905932739 0 0.0035355339059327251</Position>
+<Axis>-0.70710678118654724 1.3877787807814457e-16 -0.70710678118654791</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-4</Uid>
+</InstancePath>
+<Position>0.0035355339059326835 0 0.0035355339059326696</Position>
+<Axis>0.70710678118654713 0 0.70710678118654768</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric31">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-4</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0.99999999999999989 -1.1102230246251565e-16 -3.0531133177191805e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-4</Uid>
+</InstancePath>
+<Position>-0.058964466094067192 0.0049999999999999767 -0.058964466094066859</Position>
+<Axis>0.70710678118654902 0 0.70710678118654613</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident33">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-4</Uid>
+</InstancePath>
+<Position>0.0049999999999999975 0 0</Position>
+<Axis>0.99999999999999989 -1.1102230246251565e-16 -2.7755575615628914e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-4</Uid>
+</InstancePath>
+<Position>-0.05896446609406715 0 -0.058964466094066886</Position>
+<Axis>-0.70710678118654913 -4.4408920985006262e-16 -0.70710678118654569</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric32">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-4</Uid>
+</InstancePath>
+<Position>0 0.0049999999999999906 0</Position>
+<Axis>1 0 -3.4000580129145419e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-4</Uid>
+</InstancePath>
+<Position>0.058964466094067178 0.0050000000000000044 -0.058964466094066845</Position>
+<Axis>-0.70710678118654902 0 0.70710678118654624</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident34">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-4</Uid>
+</InstancePath>
+<Position>0.0049999999999999906 0 0</Position>
+<Axis>1 0 -3.1225022567582528e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-4</Uid>
+</InstancePath>
+<Position>0.058964466094067164 0 -0.058964466094066886</Position>
+<Axis>0.70710678118654913 -2.7755575615628914e-16 -0.70710678118654602</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric33">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>-0.049999999999999982 0.010000000000000002 -0.1000000000000001</Position>
+<Axis>-1 0 -1.3877787807814457e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-4</Uid>
+</InstancePath>
+<Position>0.050000000000000065 0.010000000000000002 -0.099999999999998868</Position>
+<Axis>-1 -1.3877787807814457e-16 -6.106226635438361e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident42">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>-4.6664061503776111e-16 0 0.039999999999999841</Position>
+<Axis>1.1712852909795402e-14 -1.3612369695165618e-16 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-2</Uid>
+</InstancePath>
+<Position>0.040000000000000008 0 0</Position>
+<Axis>1 0 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric42">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>-0.039999999999999751 0.009999999999999995 -0.10000000000000003</Position>
+<Axis>-1.0000000000000002 0 -1.3877787807814457e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-4</Uid>
+</InstancePath>
+<Position>0.040000000000000042 0.010000000000000009 -0.099999999999999062</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident44">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>0.039999999999999862 0 0</Position>
+<Axis>-1.0000000000000002 0 1.27675647831893e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-4</Uid>
+</InstancePath>
+<Position>-0.039999999999999994 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident45">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>-0.050000000000000128 0 0</Position>
+<Axis>1 0 1.27675647831893e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-4</Uid>
+</InstancePath>
+<Position>0.050000000000000003 0 0</Position>
+<Axis>1 1.3877787807814457e-16 6.106226635438361e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric44">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-6</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0 0</Position>
+<Axis>1.0000000000000002 1.1102230246251565e-16 -3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-6</Uid>
+</InstancePath>
+<Position>-0.06957106781186552 0.004999999999999994 -0.069571067811864756</Position>
+<Axis>0.70710678118655101 0 0.70710678118654413</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident46">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-6</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0 0</Position>
+<Axis>-1.0000000000000002 -1.1102230246251565e-16 2.7755575615628914e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-6</Uid>
+</InstancePath>
+<Position>-0.066035533905932739 0 -0.066035533905932031</Position>
+<Axis>0.70710678118655101 0 0.70710678118654402</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric45">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-6</Uid>
+</InstancePath>
+<Position>0.069571067811865561 0.0050000000000000114 -0.069571067811864673</Position>
+<Axis>-0.70710678118655146 0 0.70710678118654358</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-6</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0.0049999999999999906 0</Position>
+<Axis>1.0000000000000002 0 -6.2450045135165055e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident47">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-6</Uid>
+</InstancePath>
+<Position>0.066035533905932781 0 -0.066035533905932003</Position>
+<Axis>-0.70710678118655146 -1.4224732503009818e-16 0.70710678118654358</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-6</Uid>
+</InstancePath>
+<Position>-0.0050000000000000044 0 0</Position>
+<Axis>-1.0000000000000002 0 5.9674487573602164e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric46">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri-6</Uid>
+</InstancePath>
+<Position>0.030052038200428385 0 -0.022980970388562755</Position>
+<Axis>0.70710678118654735 0 0.70710678118654768</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-6</Uid>
+</InstancePath>
+<Position>0.026516504294495542 0.0049999999999999767 -0.026516504294495535</Position>
+<Axis>0.70710678118654702 0 0.70710678118654768</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident48">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri-6</Uid>
+</InstancePath>
+<Position>0.0035355339059327945 0 0.0035355339059328084</Position>
+<Axis>-0.70710678118654735 -3.0531133177191805e-16 -0.70710678118654791</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-6</Uid>
+</InstancePath>
+<Position>0.0035355339059327182 0 0.0035355339059327529</Position>
+<Axis>0.70710678118654702 0 0.70710678118654768</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric47">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_mir-6</Uid>
+</InstancePath>
+<Position>0.030052038200428302 0.0049999999999999906 -0.022980970388562796</Position>
+<Axis>0.70710678118654746 0 0.70710678118654802</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-6</Uid>
+</InstancePath>
+<Position>0.026516504294495497 0 -0.026516504294495591</Position>
+<Axis>0.70710678118654724 0 0.70710678118654813</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident49">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_mir-6</Uid>
+</InstancePath>
+<Position>0.0035355339059327459 0 0.0035355339059327251</Position>
+<Axis>-0.70710678118654735 -1.1102230246251565e-16 -0.70710678118654791</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-6</Uid>
+</InstancePath>
+<Position>0.0035355339059326939 0 0.0035355339059326973</Position>
+<Axis>0.70710678118654702 0 0.70710678118654802</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric48">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top_mir-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0.99999999999999978 -1.5959455978986625e-16 -6.0368376963992887e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-6</Uid>
+</InstancePath>
+<Position>-0.058964466094067192 0.0050000000000000044 -0.058964466094066872</Position>
+<Axis>0.70710678118654902 0 0.70710678118654624</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident50">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top_mir-6</Uid>
+</InstancePath>
+<Position>0.0049999999999999836 0 0</Position>
+<Axis>0.99999999999999978 -1.4918621893400541e-16 -5.8286708792820718e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-6</Uid>
+</InstancePath>
+<Position>-0.058964466094067164 0 -0.058964466094066914</Position>
+<Axis>-0.70710678118654913 -3.8857805861880479e-16 -0.70710678118654613</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric49">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>small_tri_top-6</Uid>
+</InstancePath>
+<Position>0 0.0049999999999999906 0</Position>
+<Axis>1 0 -3.6082248300317588e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-6</Uid>
+</InstancePath>
+<Position>0.058964466094067178 0.0050000000000000044 -0.058964466094066859</Position>
+<Axis>-0.70710678118654891 -1.1102230246251565e-16 0.70710678118654613</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident51">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>small_tri_top-6</Uid>
+</InstancePath>
+<Position>0.0050000000000000079 0 0</Position>
+<Axis>1 0 -3.3306690738754696e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-6</Uid>
+</InstancePath>
+<Position>0.058964466094067164 0 -0.058964466094066914</Position>
+<Axis>0.70710678118654913 -2.2204460492503131e-16 -0.70710678118654613</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric50">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>-0.10000000000000063 0.010000000000000002 0.049999999999998948</Position>
+<Axis>-1.1990408665951691e-14 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_bot-6</Uid>
+</InstancePath>
+<Position>0.050000000000000051 0.010000000000000016 -0.09999999999999884</Position>
+<Axis>-1 0 -3.8857805861880479e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident52">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>bot-1</Uid>
+</InstancePath>
+<Position>-5.8807125835613761e-16 0 0.050000000000000128</Position>
+<Axis>1.1768364061026659e-14 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_bot-6</Uid>
+</InstancePath>
+<Position>0.050000000000000017 0 0</Position>
+<Axis>1 0 3.8857805861880479e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric51">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>0.10000000000000026 0.009999999999999995 -0.039999999999999383</Position>
+<Axis>4.829470157119431e-15 -1.361236969516554e-16 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>trapezoid_top-6</Uid>
+</InstancePath>
+<Position>0.040000000000000008 0.010000000000000009 -0.099999999999999131</Position>
+<Axis>-1 -1.1102230246251565e-16 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident53">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>top-1</Uid>
+</InstancePath>
+<Position>0 0 0.039999999999999841</Position>
+<Axis>2.1649348980190553e-15 -1.3612369695165515e-16 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>trapezoid_top-6</Uid>
+</InstancePath>
+<Position>-0.040000000000000036 0 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="bot" uid="bot*:*Default" version="315">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bot.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.56201526539202429</Mass>
+<CenterOfMass>0 0.0049924723051603592 0</CenterOfMass>
+<Inertia>0.0018718228143645042 0.0037341187497263516 0.0018718228143645057 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="bot_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="1" b="0" a="1"/>
+<Diffuse r="0" g="1" b="0" a="1"/>
+<Specular r="0" g="0.5" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="small_tri" uid="small_tri*:*Default" version="411">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="small_tri.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.01757988269601218</Mass>
+<CenterOfMass>9.733726588963954e-06 0.0025000000000000005 -0.016429086736630061</CenterOfMass>
+<Inertia>2.3896027084341425e-06 1.1187270031269843e-05 8.8910647518318956e-06 -2.137767939248535e-08 1.4137947732467675e-07 3.4205990298318088e-08</Inertia>
+</MassProperties>
+<GeometryFile name="small_tri_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="small_tri_mir" uid="small_tri_mir*:*Default" version="393">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="small_tri_mir.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.017579882696012187</Mass>
+<CenterOfMass>9.7337265889589022e-06 0.0025000000000000001 -0.016429086736630061</CenterOfMass>
+<Inertia>2.3896027084341447e-06 1.1187270031269839e-05 8.8910647518318906e-06 2.1377679392485397e-08 1.4137947732467696e-07 -3.4205990298317942e-08</Inertia>
+</MassProperties>
+<GeometryFile name="small_tri_mir_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="1" a="1"/>
+<Diffuse r="1" g="0" b="1" a="1"/>
+<Specular r="0.5" g="0" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="small_tri_top" uid="small_tri_top*:*Default" version="427">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="small_tri_top.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.017579882696012194</Mass>
+<CenterOfMass>4.7746484203953517e-05 0.0025000000000000001 -0.016520857651607389</CenterOfMass>
+<Inertia>2.4098556641006598e-06 1.1111256934603089e-05 8.7947986994986226e-06 -2.4888019802750254e-08 1.424710403660984e-07 2.5731278871310344e-08</Inertia>
+</MassProperties>
+<GeometryFile name="small_tri_top_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.72941176470588232" g="0.35686274509803922" b="0.023529411764705882" a="1"/>
+<Diffuse r="0.72941176470588232" g="0.35686274509803922" b="0.023529411764705882" a="1"/>
+<Specular r="0.72941176470588232" g="0.35686274509803922" b="0.023529411764705882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="small_tri_top_mir" uid="small_tri_top_mir*:*Default" version="455">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="small_tri_top_mir.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.01757988269601219</Mass>
+<CenterOfMass>4.7746484203949871e-05 0.0025000000000000001 -0.016520857651607386</CenterOfMass>
+<Inertia>2.4098556641006585e-06 1.1111256934603085e-05 8.7947986994986226e-06 2.4888019802750277e-08 1.4247104036609735e-07 -2.5731278871310265e-08</Inertia>
+</MassProperties>
+<GeometryFile name="small_tri_top_mir_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="top" uid="top*:*Default" version="305">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="top.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.19961053078404845</Mass>
+<CenterOfMass>-6.4374760678056171e-16 0.0049788053295761808 0</CenterOfMass>
+<Inertia>0.0010915663520417865 0.0021796460196322333 0.0010915663520417881 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="top_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="0" a="1"/>
+<Diffuse r="1" g="1" b="0" a="1"/>
+<Specular r="1" g="1" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="trapezoid_bot" uid="trapezoid_bot*:*Default" version="437">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="trapezoid_bot.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.09075276539202376</Mass>
+<CenterOfMass>0 0.003943588630357796 -0.068388861329628695</CenterOfMass>
+<Inertia>4.2262759401417607e-05 0.00016221756593439587 0.00012130508738177185 -5.1675336252090852e-07 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="trapezoid_bot_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="1" b="1" a="1"/>
+<Diffuse r="0" g="1" b="1" a="1"/>
+<Specular r="0" g="1" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="trapezoid_top" uid="trapezoid_top*:*Default" version="350">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="trapezoid_top.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.090721963037361061</Mass>
+<CenterOfMass>0 0.0039432299525185158 -0.068285962469644676</CenterOfMass>
+<Inertia>4.2367291594163931e-05 0.00016024009073915685 0.00011922280807049204 -5.2348072173640663e-07 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="trapezoid_top_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="1" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="1" a="1"/>
+<Specular r="0.50196078431372548" g="0.50196078431372548" b="1" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
