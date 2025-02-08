@@ -1,3 +1,4 @@
+**Parralel-origami-robot-Waterbomb (ROBOT CAN CONVERT FROM 2D TO 3D LIKE ORIGAMI)**
 This project contain code calculation kinematic and synamic of parralel robot Waterbomb and 3d model of robot.  
 Open solid_file to see 3d model robot  
 Open source code to see code for kinematic and dynamic of robot, run "parameter" to config robot and run "Assem1.sxl" to see trajectory.
